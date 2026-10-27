@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fedica is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fedica.com/
+Fedica provides a social media analytics platform that schedules posts across 15 social platforms and delivers deep audience insights, including demographics down to city level, location, bot detection, and engagement analytics. It helps brands understand who their audience is and optimize content strategy with comprehensive metrics and reporting.
+
+**Areas:** Company · Social Media · Analytics · Marketing · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fedica.com/)
+- [Documentation](https://developer.fedica.com/)
+- [Blog](https://fedica.com/blog/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fedica/](https://apis.io/providers/fedica/).
